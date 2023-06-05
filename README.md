@@ -17,7 +17,7 @@ An online marketplace to buy and sell records, albums, and CDs. Users can upload
 * [Cloudinary](https://cloudinary.com/)
 
 ## Usage
-[Click here]() to visit the site!
+[Click here](https://infinite-anchorage-85332.herokuapp.com/) to visit the site!
 ![Deployed](./assets/images/Screenshot%202023-06-05%20at%2011.52.32%20AM.png)
 
 
