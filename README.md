@@ -3,29 +3,29 @@
 An online marketplace to buy and sell records, albums, and CDs. Users can upload records they own and sell to other users, as well as buy records that have been uploaded to the marketplace. Over the past 10 years, the resurgence of vinyls  has led individuals to search out records from their favorite artists, both past and present. Formulating a marketplace that caters to individuals who want to buy and sell records not only garners a sense of community, but also creates  a singularized place users can visit where vinyls can be exchanged.  
 
 ## Technologies 
-[React](https://legacy.reactjs.org/docs/getting-started.html)
-[GraphQL](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/)
-[Node.js](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs)
-[Express.js](https://expressjs.com/)
-[MongoDB](https://www.mongodb.com/)
-[Mongoose](https://www.npmjs.com/package/mongoose)
-[Heroku](https://www.heroku.com/what)
-[Stripe](https://stripe.com/)
-[Bootstrap](https://getbootstrap.com/)
-[Apollo](https://www.apollographql.com/docs/apollo-server/v3/)
-[Fontawesome](https://fontawesome.com/)
-[Cloudinary](https://cloudinary.com/)
+* [React](https://legacy.reactjs.org/docs/getting-started.html)
+* [GraphQL](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/)
+* [Node.js](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs)
+* [Express.js](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [Mongoose](https://www.npmjs.com/package/mongoose)
+* [Heroku](https://www.heroku.com/what)
+* [Stripe](https://stripe.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Apollo](https://www.apollographql.com/docs/apollo-server/v3/)
+* [Fontawesome](https://fontawesome.com/)
+* [Cloudinary](https://cloudinary.com/)
 
 ## Usage
-//insert screenshot of app 
-//insert deployed link 
+[Click here]() to visit the site!
+![Deployed](./assets/images/Screenshot%202023-06-05%20at%2011.52.32%20AM.png)
 
 
 ## Credits
-[Kendra Fitzgerald](https://github.com/kendrafitzgerald):repo manager, user model, cart component, resolvers, seed.js, debugging
-[Miles Roman](https://github.com/Myroman81):project idea, wishlist models, index.js, reducers, mutations.js, sign-up, page for single record, slidedeck
-[Elva Rothman](https://github.com/erothman1):project name, upload model, typeDefs, Navbar, Homepage, seed.js, debugging 
-[Melanie Sapiandante](https://github.com/msapiandante):order and genre models, index.js, actions, queries, login, form.js, wireframe, tracking tasks on googledoc and github, readme
+* [Kendra Fitzgerald](https://github.com/kendrafitzgerald): repo manager, user model, cart component, resolvers, seed.js, debugging
+* [Miles Roman](https://github.com/Myroman81): project idea, wishlist models, index.js, reducers, mutations.js, sign-up, page for single record, slidedeck
+* [Elva Rothman](https://github.com/erothman1): project name, upload model, typeDefs, Navbar, Homepage, seed.js, debugging, styling
+* [Melanie Sapiandante](https://github.com/msapiandante): order and genre models, index.js, actions, queries, login, form.js, wireframe, tracking tasks on googledoc and github, readme
 
 
 
